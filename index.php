@@ -7,7 +7,7 @@ SESSION_START();
 $acc_username = "christiannaling4@gmail.com";
 $acc_password = "hakdog1234";
 $acc_fullname = "Mark Christian M. Naling";
-$acc_address = "Marinduque PH";
+$acc_address = "Boac, Marinduque";
 //check the current url for the redirections later
 $url_add = "http://".$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
 
